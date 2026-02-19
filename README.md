@@ -15,7 +15,7 @@ This ePortfolio represents the culmination of my Computer Science program. The i
 
 Each artifact has been revisited and enhanced to meet professional development standards.
 
-**Original Artifacts:** `[Link to File](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Original)%20CRUD_Python_Module.py)`, `[Link to File](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Original)%20ProjectTwoDashboard.ipynb)`
+**Original Artifacts:** [Link to File](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Original)%20CRUD_Python_Module.py), [Link to File](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Original)%20ProjectTwoDashboard.ipynb)
 
 ---
 
