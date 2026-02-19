@@ -19,6 +19,14 @@ Each artifact has been revisited and enhanced to meet professional development s
 
 ---
 
+## Self Assessment
+
+Doing my capstone and finishing the Computer Science program have changed my perspective on problem, solving, system design, and software development. I have been able to enhance my skill of gathering requirements, designing modular architectures, and implementing maintainable solutions with the use of industry, relevant tools and practices throughout the program. My capstone project, which was about extending a Python based CRUD module and interactive dashboard supported by MongoDB, gave me an opportunity to display not only my technical implementation but also my professional refinement. Instead of just providing features, I concentrated on restructuring, enforcing separation of concerns, documentation strengthening, and applying defensive programming principles.
+This program has improved my knowledge of algorithms, structured data management, database abstraction, and full stack integration. Above all, it has helped to develop my mindset for lifelong learning. The experience of reworking and refactoring previously done work has enabled me to evaluate software objectively, keep the functionality while changing the internal design, and engineering maintainability of the product as the main priority. I have grown my debugging, modular system design, and technical complexity translation to clear documentation skills.
+What makes me really unique is the fact that I put a lot of focus on careful polishing and maintaining professional standards. I don't see software just as a code that works, but as an organized, extendable system designed for long term clarity and scalability. My work samples demonstrate not just technical skills but a thorough, engineering, oriented way of thinking in development that gets me ready to work efficiently in professional software environments.
+
+---
+
 # Artifacts by Category
 
 ---
