@@ -15,7 +15,7 @@ This ePortfolio represents the culmination of my Computer Science program. The i
 
 Each artifact has been revisited and enhanced to meet professional development standards.
 
-**Original Artifacts:** [Link to File](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Original)%20CRUD_Python_Module.py), [Link to File](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Original)%20ProjectTwoDashboard.ipynb)
+**Original Artifacts:** [CRUD_Python_Module.py](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Original)%20CRUD_Python_Module.py), [ProjectTwoDashboard.ipynb](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Original)%20ProjectTwoDashboard.ipynb)
 
 ---
 
@@ -38,8 +38,8 @@ This artifact demonstrates modular architecture, clean separation of responsibil
 - Applied defensive programming principles
 
  View Artifacts:  
-`[Link to File](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Revised)%20ProjectTwoDashboard.ipynb)`
-`[Link to File](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Revised)%20CRUD_Python_Module.py)`
+[ProjectTwoDashboard.ipynb](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Revised)%20ProjectTwoDashboard.ipynb)
+[CRUD_Python_Module.py](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Revised)%20CRUD_Python_Module.py)
 
 ---
 
@@ -57,7 +57,7 @@ This project highlights structured data management, algorithmic filtering logic,
 - Added explanatory comments for algorithm intent
 
  View Artifact:  
-`[Link to File](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Revised)%20ProjectTwoDashboard.ipynb)`
+[ProjectTwoDashboard.ipynb](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Revised)%20ProjectTwoDashboard.ipynb)
 
 ---
 
@@ -75,7 +75,7 @@ This artifact demonstrates a reusable MongoDB CRUD abstraction layer and a dashb
 - Clarified architectural boundaries between database and presentation layers
 
  View CRUD Module:  
-`[Link to File](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Revised)%20CRUD_Python_Module.py)`
+[CRUD_Python_Module.py](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Revised)%20CRUD_Python_Module.py)
 
 ---
 
@@ -84,7 +84,7 @@ This artifact demonstrates a reusable MongoDB CRUD abstraction layer and a dashb
 A full walkthrough of this project and its enhancements is available below:
 
  Watch on YouTube:  
-`[Code Review Video Link](https://youtu.be/OjMDmk8X9g8?si=0y5Zyzf-0TioBJnV)`
+[Code Review Video Link](https://youtu.be/OjMDmk8X9g8?si=0y5Zyzf-0TioBJnV)
 
 The video discusses:
 - Architectural decisions
