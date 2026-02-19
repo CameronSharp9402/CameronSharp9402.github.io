@@ -37,7 +37,7 @@ This artifact demonstrates modular architecture, clean separation of responsibil
 - Reinforced separation between UI and data layers
 - Applied defensive programming principles
 
- View Artifacts:  
+View Artifacts:  
 [ProjectTwoDashboard.ipynb](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Revised)%20ProjectTwoDashboard.ipynb)
 [CRUD_Python_Module.py](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Revised)%20CRUD_Python_Module.py)
 
@@ -61,7 +61,7 @@ This project highlights structured data management, algorithmic filtering logic,
 - Improved readability and structure
 - Added explanatory comments for algorithm intent
 
- View Artifact:  
+View Artifact:  
 [ProjectTwoDashboard.ipynb](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Revised)%20ProjectTwoDashboard.ipynb)
 
 ### Narrative Reflection
@@ -86,7 +86,7 @@ This artifact demonstrates a reusable MongoDB CRUD abstraction layer and a dashb
 - Centralized configuration
 - Clarified architectural boundaries between database and presentation layers
 
- View CRUD Module:  
+View CRUD Module:  
 [CRUD_Python_Module.py](https://github.com/CameronSharp9402/CameronSharp9402.github.io/blob/main/(Revised)%20CRUD_Python_Module.py)
 
 ### Narrative Reflection
@@ -101,7 +101,7 @@ These improvements are perfectly in line with the Module One outcomes which main
 
 A full walkthrough of this project and its enhancements is available below:
 
- Watch on YouTube:  
+Watch on YouTube:  
 [Code Review Video Link](https://youtu.be/OjMDmk8X9g8?si=0y5Zyzf-0TioBJnV)
 
 The video discusses:
@@ -147,5 +147,5 @@ Through these artifacts, I demonstrate competency in:
 
 Thank you for reviewing my portfolio.  
 For professional inquiries, please connect with me via LinkedIn or GitHub.
-:[Github](https://github.com/CameronSharp9402)
-:[LinkedIn](www.linkedin.com/in/cameron-sharp-9b35a424a)
+# [Github](https://github.com/CameronSharp9402)
+# [LinkedIn](www.linkedin.com/in/cameron-sharp-9b35a424a)
