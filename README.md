@@ -147,3 +147,5 @@ Through these artifacts, I demonstrate competency in:
 
 Thank you for reviewing my portfolio.  
 For professional inquiries, please connect with me via LinkedIn or GitHub.
+[Github](https://github.com/CameronSharp9402)
+[LinkedIn](www.linkedin.com/in/cameron-sharp-9b35a424a)
